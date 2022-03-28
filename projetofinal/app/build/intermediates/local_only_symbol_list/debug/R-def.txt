@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable _0565_chasm_pc_capa_1
+drawable castlevania_symphony_of_the_night_capa
+drawable ds1737x1024
+drawable elden
+drawable genshin
+drawable header
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id imageView
+id imageView2
+id imageView3
+id imageView4
+id imageView5
+id imageView6
+id textView2
+id textView3
+id textView4
+layout activity_main
+layout toolbar
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MyApplication

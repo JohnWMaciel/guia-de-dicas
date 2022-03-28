@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guia de Dicas</string>
+    <string name="digit_text">digite seu nome de usuario</string>
+    <string name="email">digite seu email</string>
+    <string name="password">digite sua senha</string>
+    <string name="date">digite sua data de nascimento</string>
+</resources>
